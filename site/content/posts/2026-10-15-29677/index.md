@@ -16,7 +16,7 @@ next_body = "中国实际人口或比官方数据少1.3亿，或扭曲中国的�
 prev_id = 29676
 prev_title = ""
 prev_body = ""
-views = 6180
+views = 6250
 ids = [29677]
 +++
 

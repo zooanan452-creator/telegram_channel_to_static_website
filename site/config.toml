@@ -45,7 +45,7 @@ avatar = "channel-avatar.jpg"
 
 
 tags = [{ name = "video", count = 2, slug = "video" }]
-page_tag_nav = [{ index = 1, newer = "", older = "15 十月 2026 - 16 十月 2026&#10;&#10;#video — 1" }, { index = 2, newer = "17 十月 2026 - 18 十月 2026&#10;&#10;#video — 1", older = "14 十月 2026 - 15 十月 2026" }, { index = 3, newer = "15 十月 2026 - 16 十月 2026&#10;&#10;#video — 1", older = "13 十月 2026 - 14 十月 2026" }, { index = 4, newer = "14 十月 2026 - 15 十月 2026", older = "12 十月 2026 - 13 十月 2026" }, { index = 5, newer = "13 十月 2026 - 14 十月 2026", older = "11 十月 2026 - 12 十月 2026" }, { index = 6, newer = "12 十月 2026 - 13 十月 2026", older = "10 十月 2026 - 11 十月 2026" }, { index = 7, newer = "11 十月 2026 - 12 十月 2026", older = "9 十月 2026 - 10 十月 2026" }, { index = 8, newer = "10 十月 2026 - 11 十月 2026", older = "9 十月 2026" }, { index = 9, newer = "9 十月 2026 - 10 十月 2026", older = "" }]
+page_tag_nav = [{ index = 1, newer = "", older = "15 十月 2026 - 17 十月 2026&#10;&#10;#video — 1" }, { index = 2, newer = "17 十月 2026 - 18 十月 2026&#10;&#10;#video — 1", older = "14 十月 2026 - 15 十月 2026" }, { index = 3, newer = "15 十月 2026 - 17 十月 2026&#10;&#10;#video — 1", older = "14 十月 2026" }, { index = 4, newer = "14 十月 2026 - 15 十月 2026", older = "13 十月 2026" }, { index = 5, newer = "14 十月 2026", older = "11 十月 2026 - 13 十月 2026" }, { index = 6, newer = "13 十月 2026", older = "10 十月 2026 - 11 十月 2026" }, { index = 7, newer = "11 十月 2026 - 13 十月 2026", older = "9 十月 2026 - 10 十月 2026" }, { index = 8, newer = "10 十月 2026 - 11 十月 2026", older = "9 十月 2026" }, { index = 9, newer = "9 十月 2026 - 10 十月 2026", older = "" }]
 
 
 

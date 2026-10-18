@@ -16,7 +16,7 @@ next_body = "刚刚收到一位熟悉边境防疫工作的朋友提供的内部�
 prev_id = 29524
 prev_title = ""
 prev_body = "江淮汽车周五再度跌停,收盘跌近8%"
-views = 5600
+views = 5610
 ids = [29525]
 +++
 
