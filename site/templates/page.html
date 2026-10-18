@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block title %}{% if page.title %}{{ page.title }}{% else %}{{ page.extra.id }}{% endif %} · {{ config.title }}{% endblock title %}
+{% block content %}
+  <article class="post{% if page.extra.forwarded_from %} forwarded{% endif %}">
+    {% if not (current_path is containing("/about/")) %}<h1>{% if page.title %}{{ page.title }}{% else %}{{ page.extra.id }}{% endif %}</h1>{% endif %}
+    {% if page.date %}<p class="meta post-meta">
+      <a class="day" href="{{ get_url(path='/day/' ~ page.extra.day ~ '/') | safe }}"><time datetime="{{ page.date }}" title="{{ page.date | date(format='%A %H:%M', locale=config.extra.date_locale) }}">{{ page.date | date(format=config.extra.date_format, locale=config.extra.date_locale) }}</time></a>
+      {% if page.extra.views %}· 👁 {{ page.extra.views }} {{ config.extra.i18n.views }}{% endif %}
+      {% if page.extra.forwarded_from %}· {{ config.extra.i18n.forwarded_from }} {% if page.extra.forwarded_from_url %}<a href="{{ page.extra.forwarded_from_url }}">{{ page.extra.forwarded_from }}</a>{% else %}{{ page.extra.forwarded_from }}{% endif %}{% endif %}
+    </p>{% endif %}
+    <div class="content">{{ page.content | safe }}</div>
+    {% if config.extra.tags_footer and page.taxonomies.tags %}
+      <p class="tags">
+      {% for t in page.taxonomies.tags %}
+        <a href="{{ get_taxonomy_url(kind='tags', name=t) }}">#{{ t }}</a>
+      {% endfor %}
+      </p>
+    {% endif %}
+	{% if config.extra.telegram_link and page.extra.tg_url %}
+	<p class='tg-link'>
+		<a href='{{ page.extra.tg_url }}' title='{{ config.extra.i18n.view_on_telegram }}' aria-label='{{ config.extra.i18n.view_on_telegram }}'>
+			{# Paper plane only, without the circular badge, adapted from Simple Icons (CC0): https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg #}
+			<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='32' height='32' fill='currentColor' aria-hidden='true' focusable='false'>
+				<path d='M16.906 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z'/>
+			</svg>
+		</a>
+	</p>
+	{% endif %}
+  </article>
+  {# Discussion snapshots belong only to this post page, not feeds or listings. #}
+  {% if page.extra.discussions_html %}{{ page.extra.discussions_html | safe }}{% endif %}
+  {% if page.extra.related %}
+  <nav class="related">
+    <strong>{{ config.extra.i18n.related }}:</strong>
+    <ul>{% for r in page.extra.related %}<li><a href="{{ get_url(path=r.path) | safe }}" title="{{ r.date }}">{{ r.label }}</a></li>{% endfor %}</ul>
+  </nav>
+  {% endif %}
+  {% if config.extra.next_prev %}
+  <nav class="post-nav">
+    <span>{% if page.extra.next_id %}<a href="{{ get_url(path='/posts/' ~ page.extra.next_id ~ '/') | safe }}" title="{{ page.extra.next_body }}" accesskey="n" rel="prev">← {{ config.extra.i18n.newer }}</a>{% endif %}</span>
+    <span>{% if page.extra.prev_id %}<a href="{{ get_url(path='/posts/' ~ page.extra.prev_id ~ '/') | safe }}" title="{{ page.extra.prev_body }}" accesskey="o" rel="next">{{ config.extra.i18n.older }} →</a>{% endif %}</span>
+  </nav>
+  {% endif %}
+{% endblock content %}
