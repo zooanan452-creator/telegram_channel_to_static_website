@@ -54,6 +54,10 @@ env:
   # Full posts per page on the home feed (default 20).
   POSTS_PER_PAGE: ${{ vars.POSTS_PER_PAGE }}
 
+  # Limit how many t.me/s/ pages to scrape (each page ≈ 20 messages).
+  # Unset = full history. Set to e.g. 10 for only the latest ~200 messages.
+  MAX_PAGES: ${{ vars.MAX_PAGES }}
+
   # Background colors (any CSS color). Defaults: dark #000000, light #ffffff.
   BACKGROUND_DARK_COLOR: ${{ vars.BACKGROUND_DARK_COLOR }}
   BACKGROUND_LIGHT_COLOR: ${{ vars.BACKGROUND_LIGHT_COLOR }}
@@ -428,6 +432,7 @@ jobs:
             [ -n "${PAGES_HOST:-}" ] && args+=(--pages-host "$PAGES_HOST")
             [ -n "${DATE_FORMAT:-}" ] && args+=(--date-format "$DATE_FORMAT")
             [ -n "${LANGUAGE:-}" ] && args+=(--language "$LANGUAGE")
+            [ -n "${MAX_PAGES:-}" ] && args+=(--max-pages "$MAX_PAGES")
             [ "${DERIVE_TITLES:-}" = "true" ] && args+=(--derive-titles)
             [ "${STRIP_TITLE:-}" = "true" ] && args+=(--strip-title)
             [ "${LINK_UNDERLINE:-}" = "true" ] && args+=(--link-underline)
