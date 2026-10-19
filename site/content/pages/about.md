@@ -28,14 +28,14 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 
 
 
-在 git 仓库中：**7.3 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
+在 git 仓库中：**7.4 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
 
 在 [GitHub Releases](https://github.com/zooanan452-creator/telegram_channel_to_static_website/releases) 中：**27.4 MB** 媒体文件 — 位于 git 之外，因此不计入限额。
 
 按类型：
 
-- **图片** 6.8 MB
-- **文本** 428 KB
+- **图片** 6.9 MB
+- **文本** 421 KB
 - **其他** 24.8 KB
 
 最大的文件：
@@ -51,9 +51,9 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 - [133 KB — 01.jpg](@/posts/2026-10-13-29609/index.md "福建养老缴费下限统一：企业职工涨13.3%，机关事业单位仅涨1.3% 10月12日，东方财富研究中心发文指出，福建2026年养老保险缴费下限统一调至4579元：企业职工由2025年的4043元上涨约13.3%，机关事业单位工作人员则由4521元上涨约1.3%。 此前企业职工的缴费下限更低，此次统一标准带来的增幅明显更大。若按两年对应下限及8%的个人养老费率测算，企业职工个人每月增加42.88元，机关事业单位人员增加4.64元。 网友评论： “太阳早晚熄火” “万般皆下品，惟有社保高” “工资都没基数高”")
 - [120 KB — 6230799027742119164_1450720948_460002556.jpg](@/posts/2026-10-13-29617/index.md "茶百道这干的也太大了。香港证监会发文称，奶茶公司茶百道，涉嫌在 2 年前上市时，私下找人认购了大量新股，让外界以为这只股票很抢手。 等公司拿到募资后，又借投资金融产品的名义，把一部分钱暗中还给这些认购新股的演员。 没想到还能这么玩。。")
 
-生成耗时 **13s**。
+生成耗时 **14s**。
 
-最后更新 **2026-10-19 11:25 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/39244293820)
+最后更新 **2026-10-19 17:52 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/39297588791)
 
 
 
