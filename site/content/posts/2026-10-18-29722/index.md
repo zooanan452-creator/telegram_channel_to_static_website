@@ -16,7 +16,7 @@ next_body = "【美联储10月维持利率不变的概率为83.9%】\n据CME“�
 prev_id = 29721
 prev_title = ""
 prev_body = "格隆汇：全球6370亿美元AI利润分配\n其中，\n美国49.0%\n韩国35.0%"
-views = 1320
+views = 3250
 ids = [29722]
 +++
 
