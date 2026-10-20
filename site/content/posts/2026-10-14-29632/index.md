@@ -16,7 +16,7 @@ next_body = "国内已看不到，这里自己看看就好\n黄奇帆涉嫌严�
 prev_id = 29631
 prev_title = ""
 prev_body = "这个瓜越来越大了。被 FBI 逮捕，在 ChatGPT 的 OpenAI 公司，安装录音器的沙特籍员工 Abdulrahman Alfozan。\n被扒还是一家沙特风投公司的投资合伙人，而与他同样是合伙人的，还有沙特王子 Khalid Bin Bader Al Saud。\n这位王子的父亲，以前在沙特情报机构的特种行动部门干过。\n虽然官方还没说，这是沙特政府指使的，但是从背景和动机来看，很难不让人怀疑。"
-views = 5130
+views = 5140
 ids = [29632]
 +++
 

@@ -13,7 +13,7 @@ tg_url = "https://t.me/pelosi3/29772"
 prev_id = 29771
 prev_title = ""
 prev_body = "以色列总理内塔尼亚胡：周一与美国总统特朗普进行通话，讨论了消除伊朗政权的重要性。"
-views = 780
+views = 1860
 ids = [29772]
 +++
 
