@@ -16,7 +16,7 @@ next_body = "各位金主请注意，\n若您想在本频道投放广告，\n请
 prev_id = 29774
 prev_title = ""
 prev_body = "【马斯克：特斯拉与SpaceX合并是个好主意】\n马斯克：SpaceX(SPCX.O)和特斯拉(TSLA.O)已分别成立特别委员会，讨论合并事宜。我觉得和特斯拉(TSLA.O)合并是个不错的主意。"
-views = 3680
+views = 4520
 ids = [29775]
 +++
 
