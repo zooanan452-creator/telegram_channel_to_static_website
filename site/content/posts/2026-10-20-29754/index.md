@@ -16,7 +16,7 @@ next_body = "这个瓜越来越大了。此前在 ChatGPT 的 OpenAI，因安装
 prev_id = 29752
 prev_title = ""
 prev_body = "吹牛是要上税的"
-views = 5590
+views = 5620
 ids = [29754]
 +++
 
