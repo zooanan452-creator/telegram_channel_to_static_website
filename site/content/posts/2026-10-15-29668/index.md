@@ -17,7 +17,7 @@ next_body = "欧盟拟以解除一项对华制裁，换取中方解禁ASML关键
 prev_id = 29667
 prev_title = ""
 prev_body = "韩国创业板指（KOSDAQ）跌幅扩大至8%。韩国交易所对 KOSDAQ启动熔断机制，交易暂停20分钟。"
-views = 6050
+views = 6060
 ids = [29668]
 +++
 
