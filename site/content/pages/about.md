@@ -28,14 +28,14 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 
 
 
-在 git 仓库中：**7.4 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
+在 git 仓库中：**7.2 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
 
 在 [GitHub Releases](https://github.com/zooanan452-creator/telegram_channel_to_static_website/releases) 中：**27.4 MB** 媒体文件 — 位于 git 之外，因此不计入限额。
 
 按类型：
 
-- **图片** 7.0 MB
-- **文本** 422 KB
+- **图片** 6.8 MB
+- **文本** 423 KB
 - **其他** 24.8 KB
 
 最大的文件：
@@ -51,9 +51,9 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 - [136 KB — 6240109039371095920_1452888604_460001136.jpg](@/posts/2026-10-16-29690/index.md "不管是医生、教师、公交司机的工资拖欠。 还是个人所得税的连续暴涨。 还是对各个上市公司的巨额罚款。 还是如今社保的全国（已见官方报道大力推动社保参保的城市：北京深圳青岛成都西安广州杭州济南太原…）大运动。 都能看出来一件事：政府，尤其是地方政府确实没钱了。 如果你接受了这个判断，那后续的其他决策都不会跑偏。 如果你还是停留在前年大前年的思路，那整体的决策都会出问题。")
 - [133 KB — 01.jpg](@/posts/2026-10-13-29609/index.md "福建养老缴费下限统一：企业职工涨13.3%，机关事业单位仅涨1.3% 10月12日，东方财富研究中心发文指出，福建2026年养老保险缴费下限统一调至4579元：企业职工由2025年的4043元上涨约13.3%，机关事业单位工作人员则由4521元上涨约1.3%。 此前企业职工的缴费下限更低，此次统一标准带来的增幅明显更大。若按两年对应下限及8%的个人养老费率测算，企业职工个人每月增加42.88元，机关事业单位人员增加4.64元。 网友评论： “太阳早晚熄火” “万般皆下品，惟有社保高” “工资都没基数高”")
 
-生成耗时 **13s**。
+生成耗时 **15s**。
 
-最后更新 **2026-10-21 20:58 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/39674772245)
+最后更新 **2026-10-22 02:09 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/39709661023)
 
 
 
