@@ -44,8 +44,8 @@ search_site = "zooanan452-creator.github.io"
 avatar = "channel-avatar.jpg"
 
 
-tags = [{ name = "video", count = 2, slug = "video" }, { name = "数据", count = 1, slug = "数据" }]
-page_tag_nav = [{ index = 1, newer = "", older = "21 十月 2026 - 22 十月 2026" }, { index = 2, newer = "22 十月 2026 - 23 十月 2026", older = "20 十月 2026" }, { index = 3, newer = "21 十月 2026 - 22 十月 2026", older = "19 十月 2026 - 20 十月 2026&#10;&#10;#数据 — 1" }, { index = 4, newer = "20 十月 2026", older = "17 十月 2026 - 19 十月 2026" }, { index = 5, newer = "19 十月 2026 - 20 十月 2026&#10;&#10;#数据 — 1", older = "16 十月 2026 - 17 十月 2026&#10;&#10;#video — 2" }, { index = 6, newer = "17 十月 2026 - 19 十月 2026", older = "14 十月 2026 - 16 十月 2026" }, { index = 7, newer = "16 十月 2026 - 17 十月 2026&#10;&#10;#video — 2", older = "14 十月 2026" }, { index = 8, newer = "14 十月 2026 - 16 十月 2026", older = "13 十月 2026 - 14 十月 2026" }, { index = 9, newer = "14 十月 2026", older = "" }]
+tags = [{ name = "video", count = 3, slug = "video" }, { name = "数据", count = 1, slug = "数据" }]
+page_tag_nav = [{ index = 1, newer = "", older = "21 十月 2026 - 23 十月 2026" }, { index = 2, newer = "23 十月 2026 - 24 十月 2026&#10;&#10;#video — 1", older = "20 十月 2026 - 21 十月 2026" }, { index = 3, newer = "21 十月 2026 - 23 十月 2026", older = "19 十月 2026 - 20 十月 2026" }, { index = 4, newer = "20 十月 2026 - 21 十月 2026", older = "18 十月 2026 - 19 十月 2026&#10;&#10;#数据 — 1" }, { index = 5, newer = "19 十月 2026 - 20 十月 2026", older = "16 十月 2026 - 18 十月 2026&#10;&#10;#video — 1" }, { index = 6, newer = "18 十月 2026 - 19 十月 2026&#10;&#10;#数据 — 1", older = "15 十月 2026 - 16 十月 2026&#10;&#10;#video — 1" }, { index = 7, newer = "16 十月 2026 - 18 十月 2026&#10;&#10;#video — 1", older = "14 十月 2026 - 15 十月 2026" }, { index = 8, newer = "15 十月 2026 - 16 十月 2026&#10;&#10;#video — 1", older = "14 十月 2026" }, { index = 9, newer = "14 十月 2026 - 15 十月 2026", older = "" }]
 
 
 
@@ -73,5 +73,5 @@ posts = "篇"
 related = "相关"
 
 [extra.tag_counts]
-"video" = "2 篇"
+"video" = "3 篇"
 "数据" = "1 篇"
