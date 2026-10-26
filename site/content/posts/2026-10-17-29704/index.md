@@ -18,7 +18,7 @@ next_body = "独立媒体 Court Watch 证实，隐私社交软件 Telegram 正�
 prev_id = 29703
 prev_title = ""
 prev_body = "各位金主请注意，\n若您想在本频道投放广告，\n请按照三个简单的步骤操作：\n1) 注册：\n2) 以便捷的方式充值\n3) 创建广告帖子\n如果您的帖子主题适合我们的频道，我们将很乐意发布。"
-views = 5960
+views = 5970
 ids = [29704]
 +++
 
