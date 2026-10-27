@@ -16,7 +16,7 @@ next_body = "商务部新闻发言人就美国土安全部发布针对中国企�
 prev_id = 29763
 prev_title = ""
 prev_body = "压力最大的基金经理"
-views = 5650
+views = 5690
 ids = [29765]
 +++
 
