@@ -10,10 +10,13 @@ days = ["2026-10-27"]
 id = 29908
 day = "2026-10-27"
 tg_url = "https://t.me/pelosi3/29908"
+next_id = 29909
+next_title = ""
+next_body = "据路透社：消息人士称，先正达集团顾问计划通过IPO实现至少660亿美元市值。"
 prev_id = 29906
 prev_title = ""
 prev_body = "粗大事了，是哪位大人物被英国扣留了？\n居然惊动了外交部"
-views = 1880
+views = 3680
 ids = [29908]
 +++
 

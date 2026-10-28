@@ -28,15 +28,15 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 
 
 
-在 git 仓库中：**6.4 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
+在 git 仓库中：**6.2 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
 
 在 [GitHub Releases](https://github.com/zooanan452-creator/telegram_channel_to_static_website/releases) 中：**30.8 MB** 媒体文件 — 位于 git 之外，因此不计入限额。
 
 按类型：
 
-- **图片** 6.0 MB
-- **文本** 412 KB
-- **其他** 24.8 KB
+- **图片** 5.7 MB
+- **文本** 411 KB
+- **其他** 24.2 KB
 
 最大的文件：
 
@@ -48,12 +48,12 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 - [131 KB — 01.jpg](@/posts/2026-10-21-29777/index.md)
 - [124 KB — 04.jpg](@/posts/2026-10-21-29777/index.md)
 - [123 KB — 6269098638394987510_1459638271_460002294.jpg](@/posts/2026-10-27-29885/index.md "涉及 27%，微软正探索四个国家员工自愿离职。 为节省 AI 支出，微软昨夜向约 6 万名员工，陆续发送邮件，提供自愿离职报价。如员工接受可获得补偿，他们将决定要么领钱走人，要么留下来，但可能未来还会被裁员。 仅限于美国、加拿大、印度和英国的 70 级及以下，包括资深岗位员工。 自 2022 年以来，微软员工规模一直稳定，但直到今年微软大举投资 AI 及数据中心，这些支出极度压缩了公司其他部门的预算，以及养人、招聘资源。 如微软最终成功，预计很多大厂，在 AI 支出压力下，将纷纷跟进。")
-- [120 KB — 02.jpg](@/posts/2026-10-17-29706/index.md "独立媒体 Court Watch 证实，隐私社交软件 Telegram 正在向美国当局，提供用户隐私数据。 根据 Telegram 发送的一封信函，他们提供了特定用户的电话号码、用户 ID 和 IP 地址，给到相关机构。他们甚至有专门的团队来接收美国执法部门，提出的调查用户请求。")
 - [119 KB — 02.jpg](@/posts/2026-10-23-29813/index.md "现在几乎所有炒A股的群都在转发这几张图")
+- [113 KB — 02.jpg](@/posts/2026-10-21-29781/index.md "宁德时代今天大跌的原因找到了！～ 人民日报急了。。。。砸盘威力是真踏马的大大啊！！ 特斯拉只展示了一项新技术，人民日报却急着拿整个中国新能源汽车产业出来证明我们没输。")
 
 生成耗时 **12s**。
 
-最后更新 **2026-10-27 16:57 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/40545702611)
+最后更新 **2026-10-28 02:47 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/40622863585)
 
 
 
