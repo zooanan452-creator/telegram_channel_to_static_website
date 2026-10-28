@@ -20,7 +20,7 @@ template = "page.html"
 信息分享不易,欢迎大佬打赏，USDT 投喂地址:  
 TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 
-**72.1K** subscribers · **13K** images · **3.05K** videos · **33** files · **1.7K** links
+**72.1K** subscribers · **13K** images · **3.06K** videos · **33** files · **1.7K** links
 
 🎧 Podcast: [audio](https://zooanan452-creator.github.io/telegram_channel_to_static_website/podcast.xml) · [video](https://zooanan452-creator.github.io/telegram_channel_to_static_website/video-podcast.xml)
 
@@ -30,12 +30,12 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 
 在 git 仓库中：**6.2 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
 
-在 [GitHub Releases](https://github.com/zooanan452-creator/telegram_channel_to_static_website/releases) 中：**30.8 MB** 媒体文件 — 位于 git 之外，因此不计入限额。
+在 [GitHub Releases](https://github.com/zooanan452-creator/telegram_channel_to_static_website/releases) 中：**37.7 MB** 媒体文件 — 位于 git 之外，因此不计入限额。
 
 按类型：
 
-- **图片** 5.7 MB
-- **文本** 411 KB
+- **图片** 5.8 MB
+- **文本** 403 KB
 - **其他** 24.2 KB
 
 最大的文件：
@@ -49,11 +49,11 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 - [124 KB — 04.jpg](@/posts/2026-10-21-29777/index.md)
 - [123 KB — 6269098638394987510_1459638271_460002294.jpg](@/posts/2026-10-27-29885/index.md "涉及 27%，微软正探索四个国家员工自愿离职。 为节省 AI 支出，微软昨夜向约 6 万名员工，陆续发送邮件，提供自愿离职报价。如员工接受可获得补偿，他们将决定要么领钱走人，要么留下来，但可能未来还会被裁员。 仅限于美国、加拿大、印度和英国的 70 级及以下，包括资深岗位员工。 自 2022 年以来，微软员工规模一直稳定，但直到今年微软大举投资 AI 及数据中心，这些支出极度压缩了公司其他部门的预算，以及养人、招聘资源。 如微软最终成功，预计很多大厂，在 AI 支出压力下，将纷纷跟进。")
 - [119 KB — 02.jpg](@/posts/2026-10-23-29813/index.md "现在几乎所有炒A股的群都在转发这几张图")
-- [113 KB — 02.jpg](@/posts/2026-10-21-29781/index.md "宁德时代今天大跌的原因找到了！～ 人民日报急了。。。。砸盘威力是真踏马的大大啊！！ 特斯拉只展示了一项新技术，人民日报却急着拿整个中国新能源汽车产业出来证明我们没输。")
+- [117 KB — 5121124760019471638_1192354774_460000534.jpg](@/posts/2026-10-28-29920/index.md "左边前四个都是现行反革命模型，中国人还敢蒸馏吗")
 
-生成耗时 **12s**。
+生成耗时 **13s**。
 
-最后更新 **2026-10-28 02:47 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/40622863585)
+最后更新 **2026-10-28 11:45 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/40682203179)
 
 
 
