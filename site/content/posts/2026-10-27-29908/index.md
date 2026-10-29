@@ -16,7 +16,7 @@ next_body = "据路透社：消息人士称，先正达集团顾问计划通过I
 prev_id = 29906
 prev_title = ""
 prev_body = "粗大事了，是哪位大人物被英国扣留了？\n居然惊动了外交部"
-views = 5650
+views = 5780
 ids = [29908]
 +++
 
