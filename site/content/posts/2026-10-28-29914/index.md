@@ -16,7 +16,7 @@ next_body = "【前中国证监会党委委员王会民受贿4.36亿 遭判死�
 prev_id = 29913
 prev_title = ""
 prev_body = "选妃"
-views = 4930
+views = 5020
 ids = [29914]
 +++
 

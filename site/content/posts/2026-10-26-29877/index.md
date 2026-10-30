@@ -17,7 +17,7 @@ next_body = "分析师：AI恐慌令SpaceX债务融资成本增加200个基点\n
 prev_id = 29876
 prev_title = ""
 prev_body = "华尔街日报报道，人工智能公司Anthropic目标在11月16日当周进行首次公开募股，目前披露的是目标时间安排。"
-views = 7600
+views = 7640
 ids = [29877]
 +++
 

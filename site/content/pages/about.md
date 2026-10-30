@@ -28,14 +28,14 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 
 
 
-在 git 仓库中：**6.2 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
+在 git 仓库中：**5.6 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
 
 在 [GitHub Releases](https://github.com/zooanan452-creator/telegram_channel_to_static_website/releases) 中：**37.7 MB** 媒体文件 — 位于 git 之外，因此不计入限额。
 
 按类型：
 
-- **图片** 5.8 MB
-- **文本** 421 KB
+- **图片** 5.1 MB
+- **文本** 455 KB
 - **其他** 25.1 KB
 
 最大的文件：
@@ -51,9 +51,9 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 - [117 KB — 5121124760019471638_1192354774_460000534.jpg](@/posts/2026-10-28-29920/index.md "左边前四个都是现行反革命模型，中国人还敢蒸馏吗")
 - [113 KB — 02.jpg](@/posts/2026-10-21-29781/index.md "宁德时代今天大跌的原因找到了！～ 人民日报急了。。。。砸盘威力是真踏马的大大啊！！ 特斯拉只展示了一项新技术，人民日报却急着拿整个中国新能源汽车产业出来证明我们没输。")
 
-生成耗时 **12s**。
+生成耗时 **11s**。
 
-最后更新 **2026-10-29 22:07 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/40963228831)
+最后更新 **2026-10-30 03:12 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/40995917986)
 
 
 
