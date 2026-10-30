@@ -16,7 +16,7 @@ next_body = "【美国中期选举临近 AI监管成民主党竞选突破口】\
 prev_id = 29941
 prev_title = ""
 prev_body = ""
-views = 4150
+views = 4460
 ids = [29942]
 +++
 

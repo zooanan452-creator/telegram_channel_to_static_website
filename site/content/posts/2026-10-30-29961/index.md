@@ -16,7 +16,7 @@ next_body = "9个AI模型对美国缅因州众议院选举预测接近五五开�
 prev_id = 29960
 prev_title = ""
 prev_body = "行业百草枯的含金量，能不能别把你们的臭味带到别的行业"
-views = 2020
+views = 3570
 ids = [29961]
 +++
 

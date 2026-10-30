@@ -17,7 +17,7 @@ next_body = "“一对一专案组”运动真的来了"
 prev_id = 29872
 prev_title = ""
 prev_body = "BREAKING: Benjamin Netanyahu leans on President Trump’s renewed endorsement as Israelis vote in a tight election centered on security, Iran and his political future."
-views = 6570
+views = 6600
 ids = [29873]
 +++
 
