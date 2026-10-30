@@ -44,8 +44,8 @@ search_site = "zooanan452-creator.github.io"
 avatar = "channel-avatar.jpg"
 
 
-tags = [{ name = "video", count = 3, slug = "video" }]
-page_tag_nav = [{ index = 1, newer = "", older = "28 十月 2026 - 29 十月 2026" }, { index = 2, newer = "29 十月 2026 - 30 十月 2026", older = "27 十月 2026 - 28 十月 2026&#10;&#10;#video — 2" }, { index = 3, newer = "28 十月 2026 - 29 十月 2026", older = "26 十月 2026 - 27 十月 2026" }, { index = 4, newer = "27 十月 2026 - 28 十月 2026&#10;&#10;#video — 2", older = "25 十月 2026 - 26 十月 2026" }, { index = 5, newer = "26 十月 2026 - 27 十月 2026", older = "24 十月 2026 - 25 十月 2026&#10;&#10;#video — 1" }, { index = 6, newer = "25 十月 2026 - 26 十月 2026", older = "22 十月 2026 - 23 十月 2026" }, { index = 7, newer = "24 十月 2026 - 25 十月 2026&#10;&#10;#video — 1", older = "21 十月 2026 - 22 十月 2026" }, { index = 8, newer = "22 十月 2026 - 23 十月 2026", older = "20 十月 2026" }, { index = 9, newer = "21 十月 2026 - 22 十月 2026", older = "" }]
+tags = [{ name = "video", count = 4, slug = "video" }]
+page_tag_nav = [{ index = 1, newer = "", older = "28 十月 2026 - 29 十月 2026" }, { index = 2, newer = "29 十月 2026 - 30 十月 2026&#10;&#10;#video — 1", older = "27 十月 2026 - 28 十月 2026&#10;&#10;#video — 2" }, { index = 3, newer = "28 十月 2026 - 29 十月 2026", older = "26 十月 2026 - 27 十月 2026" }, { index = 4, newer = "27 十月 2026 - 28 十月 2026&#10;&#10;#video — 2", older = "25 十月 2026 - 26 十月 2026" }, { index = 5, newer = "26 十月 2026 - 27 十月 2026", older = "24 十月 2026 - 25 十月 2026&#10;&#10;#video — 1" }, { index = 6, newer = "25 十月 2026 - 26 十月 2026", older = "23 十月 2026 - 24 十月 2026" }, { index = 7, newer = "24 十月 2026 - 25 十月 2026&#10;&#10;#video — 1", older = "21 十月 2026 - 22 十月 2026" }, { index = 8, newer = "23 十月 2026 - 24 十月 2026", older = "20 十月 2026 - 21 十月 2026" }, { index = 9, newer = "21 十月 2026 - 22 十月 2026", older = "" }]
 
 
 
@@ -73,4 +73,4 @@ posts = "篇"
 related = "相关"
 
 [extra.tag_counts]
-"video" = "3 篇"
+"video" = "4 篇"

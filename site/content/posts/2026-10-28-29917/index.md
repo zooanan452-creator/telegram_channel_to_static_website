@@ -16,7 +16,7 @@ next_body = "彭博引述消息報道，曾被譽為「中國銅業大亨」或�
 prev_id = 29916
 prev_title = ""
 prev_body = ""
-views = 5470
+views = 5580
 ids = [29917]
 +++
 
