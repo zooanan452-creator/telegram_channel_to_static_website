@@ -28,15 +28,15 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 
 
 
-在 git 仓库中：**5.5 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
+在 git 仓库中：**6.2 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
 
 在 [GitHub Releases](https://github.com/zooanan452-creator/telegram_channel_to_static_website/releases) 中：**62.3 MB** 媒体文件 — 位于 git 之外，因此不计入限额。
 
 按类型：
 
-- **图片** 5.0 MB
-- **文本** 461 KB
-- **其他** 25.8 KB
+- **图片** 5.7 MB
+- **文本** 459 KB
+- **其他** 30.7 KB
 
 最大的文件：
 
@@ -49,11 +49,11 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 - [123 KB — 6269098638394987510_1459638271_460002294.jpg](@/posts/2026-10-27-29885/index.md "涉及 27%，微软正探索四个国家员工自愿离职。 为节省 AI 支出，微软昨夜向约 6 万名员工，陆续发送邮件，提供自愿离职报价。如员工接受可获得补偿，他们将决定要么领钱走人，要么留下来，但可能未来还会被裁员。 仅限于美国、加拿大、印度和英国的 70 级及以下，包括资深岗位员工。 自 2022 年以来，微软员工规模一直稳定，但直到今年微软大举投资 AI 及数据中心，这些支出极度压缩了公司其他部门的预算，以及养人、招聘资源。 如微软最终成功，预计很多大厂，在 AI 支出压力下，将纷纷跟进。")
 - [119 KB — 02.jpg](@/posts/2026-10-23-29813/index.md "现在几乎所有炒A股的群都在转发这几张图")
 - [117 KB — 5121124760019471638_1192354774_460000534.jpg](@/posts/2026-10-28-29920/index.md "左边前四个都是现行反革命模型，中国人还敢蒸馏吗")
-- [113 KB — 02.jpg](@/posts/2026-10-21-29781/index.md "宁德时代今天大跌的原因找到了！～ 人民日报急了。。。。砸盘威力是真踏马的大大啊！！ 特斯拉只展示了一项新技术，人民日报却急着拿整个中国新能源汽车产业出来证明我们没输。")
+- [116 KB — 6282798278399169953_1462827967_460002721.jpg](@/posts/2026-10-31-29978/index.md "财新关于珠海华发的文章。 简单说就是崩盘，大崩盘。因“房地产下行、地方政府巨额欠款和集中债务到期”，华发集团已深陷债务危机。 珠海市政府正通过国企接盘资产、银行贷款展期等方式紧急救助，但珠海自身财政能力就那样儿，急需广东省级层面的协调。广东：🤡 截至2026年6月末，华发集团总资产7444亿元，总负债5660亿元，其中银行贷款2252亿元。 华发曾经牛极了，十字门是华发一手操盘的，国际会展中心附近一大片都是华发建的，还有横琴的很多项目。 现在也到了大厦将倾的地步了。 华发如果出事，又解决不好，珠海的地产市场、金融体系、地方财政都会受到巨大的打击。 更别提就业了… ——— 我们可以回过头去看看财…")
 
 生成耗时 **13s**。
 
-最后更新 **2026-10-31 02:57 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/41162174611)
+最后更新 **2026-10-31 11:20 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/41196349948)
 
 
 

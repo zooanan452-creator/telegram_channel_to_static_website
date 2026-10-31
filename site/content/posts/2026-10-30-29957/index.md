@@ -16,7 +16,7 @@ next_body = "【亚马逊和英特尔财报加剧AI热潮成本担忧，美股�
 prev_id = 29956
 prev_title = ""
 prev_body = "DeepSeek和月之暗面被指借GPT-6 Astra输出训练新模型\n10月28日，美国科技媒体《The Information》报道，中国AI开发商DeepSeek及月之暗面的最新模型均涉嫌利用OpenAI旗下GPT-6 Astra的输出内容进行”蒸馏\"训练——即以一个模型的输出训练另一个模型。\nOpenAI 9月已将一场始于7月的蒸馏行动追溯至与月之暗面有关联的人士。\nAnthropic也表示已采取新措施，使针对Claude模型的蒸馏攻击数据获取量减少约90%至99%。随着中美AI竞争加剧，蒸馏做法引发业界高度争议，该做法被认为让竞争对手得以更快速、低成本地复制先进模型能力。"
-views = 3930
+views = 4340
 ids = [29957]
 +++
 
