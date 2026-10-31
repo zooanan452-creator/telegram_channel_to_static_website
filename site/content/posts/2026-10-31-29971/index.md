@@ -17,7 +17,7 @@ next_body = "没想到马斯克上周刚警告 AI 融资环境收紧，现在连
 prev_id = 29970
 prev_title = ""
 prev_body = ""
-views = 2630
+views = 3050
 ids = [29971, 29972, 29973]
 +++
 
