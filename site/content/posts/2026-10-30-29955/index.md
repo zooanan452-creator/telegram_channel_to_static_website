@@ -16,7 +16,7 @@ next_body = "DeepSeek和月之暗面被指借GPT-6 Astra输出训练新模型\n1
 prev_id = 29953
 prev_title = ""
 prev_body = "知名链上追踪博主 ZachXBT，猜测本次攻击币安，盗取 58.75 亿美元的，为朝鲜人民军总参谋部侦察总局，下属管理的 Lazarus Group。\n该组织在该领域盗窃的战果\n日本 DMM 交易所，约 3 亿美元\n印度 WazirX 交易所，约 2.3 亿美元\n华人 Bybit 交易所，约 15 亿美元\n链上协议 Kelp DAO，约 2.92 亿美元\n华人 Bitget 交易所，约 3.8 亿美元\n虽然币安已经追回了其中的一半资产，但是比特币、以太坊等是追回的难题，该黑客最终目标是将资产流入朝鲜，充足朝鲜国家建设。"
-views = 4050
+views = 4240
 forwarded_from = "Obedient Ragebait"
 ids = [29955]
 +++

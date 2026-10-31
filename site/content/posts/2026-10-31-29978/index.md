@@ -17,7 +17,7 @@ next_body = "这一轮如果真正走成无反弹的深度快熊\n修复难度�
 prev_id = 29976
 prev_title = ""
 prev_body = "以前爆仓了，还可以去送外卖\n现在连送外卖，都要开始裁员了😂"
-views = 984
+views = 2580
 ids = [29978]
 +++
 
