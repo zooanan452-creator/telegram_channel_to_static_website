@@ -16,7 +16,7 @@ next_body = "各位金主请注意，\n若您想在本频道投放广告，\n请
 prev_id = 29813
 prev_title = ""
 prev_body = "现在几乎所有炒A股的群都在转发这几张图"
-views = 5980
+views = 5990
 ids = [29816]
 +++
 
