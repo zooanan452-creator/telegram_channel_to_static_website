@@ -28,14 +28,14 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 
 
 
-在 git 仓库中：**5.7 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
+在 git 仓库中：**5.8 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
 
 在 [GitHub Releases](https://github.com/zooanan452-creator/telegram_channel_to_static_website/releases) 中：**62.3 MB** 媒体文件 — 位于 git 之外，因此不计入限额。
 
 按类型：
 
-- **图片** 5.2 MB
-- **文本** 475 KB
+- **图片** 5.3 MB
+- **文本** 466 KB
 - **其他** 30.7 KB
 
 最大的文件：
@@ -49,11 +49,11 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 - [114 KB — 03.jpg](@/posts/2026-10-31-29971/index.md "中国A股这次股灾的完整汇总。 事在人为。各位炒A股的朋友还是要注意风险，毕竟不是正规市场。")
 - [111 KB — 01.jpg](@/posts/2026-10-31-29971/index.md "中国A股这次股灾的完整汇总。 事在人为。各位炒A股的朋友还是要注意风险，毕竟不是正规市场。")
 - [109 KB — 01.jpg](@/posts/2026-10-27-29903/index.md "段永平的福报来了。此前不断被段永平加仓押注的泡泡玛特，发布第三季度业绩公告，整体营收同比下降 45 - 50%，海外美洲同比下降 70 - 75%，公司已出现明显负增长。 虽然港股已经收盘，但按照币安、Bitget 等场外合约报价 16 美金，约 126 港元来算，段永平已浮亏达 24 亿港元，约 -16%。")
-- [108 KB — 6284966416544895774_1463332776_460002078.jpg](@/posts/2026-11-01-29983/index.md "是金正恩！美国联邦调查局、特勤局、国税局刑事调查处，三家联合发布重大公告，确认朝鲜政府，是这次盗走币安超过 60 亿美元资产的元凶。 FBI 把朝鲜的这起网络攻击行动，称为 TraderTraitor 交易叛徒。 他们观察到，这些被盗的钱，正被转成以太坊，然后通过各种去中心化工具和快速兑换服务来洗钱。 目前它们敦促所有相关公司和交易商，配合行动，把这次盗窃相关的链上地址，给拦截掉，防止这些钱继续被加速转移。")
+- [109 KB — 6289802450935943941_1464458753_460002053.jpg](@/posts/2026-11-03-29998/index.md "🇺🇸美国11月3日中期选举最新数据和进度时间表： 民主党控制众议院的概率为 95%。 民主党控制参议院的概率为 74%。 中期选举真正的决战在明早上8点。 北京时间11月4日上午，出票时间表极其致命： 8:00，印第安纳和肯塔基率先关闭，首批数据出炉。 9:00，佐治亚、弗吉尼亚关闭，参议院关键战场打响。 10:00，最危险的窗口。亚利桑那、密歇根、得州同时关闭，参议院归属的早期信号，在这一小时成型。 中午12:00，加州关闭，计票缓慢。 但参议院，大概率会拖上几天，甚至几周。 明早10点，系好安全带。 不管谁赢，这场剧烈波动，买单的永远是你的股票和加密货币的仓位。")
 
-生成耗时 **12s**。
+生成耗时 **13s**。
 
-最后更新 **2026-11-03 00:08 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/41550463618)
+最后更新 **2026-11-03 13:08 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/41641383954)
 
 
 
