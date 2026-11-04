@@ -20,7 +20,7 @@ template = "page.html"
 信息分享不易,欢迎大佬打赏，USDT 投喂地址:  
 TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 
-**72.3K** subscribers · **13.1K** images · **3.06K** videos · **33** files · **1.7K** links
+**72.4K** subscribers · **13.1K** images · **3.06K** videos · **33** files · **1.7K** links
 
 🎧 Podcast: [audio](https://zooanan452-creator.github.io/telegram_channel_to_static_website/podcast.xml) · [video](https://zooanan452-creator.github.io/telegram_channel_to_static_website/video-podcast.xml)
 
@@ -28,15 +28,15 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 
 
 
-在 git 仓库中：**5.9 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
+在 git 仓库中：**5.7 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
 
 在 [GitHub Releases](https://github.com/zooanan452-creator/telegram_channel_to_static_website/releases) 中：**71.4 MB** 媒体文件 — 位于 git 之外，因此不计入限额。
 
 按类型：
 
-- **图片** 5.4 MB
-- **文本** 485 KB
-- **其他** 31.3 KB
+- **图片** 5.2 MB
+- **文本** 476 KB
+- **其他** 28.9 KB
 
 最大的文件：
 
@@ -51,9 +51,9 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 - [111 KB — 01.jpg](@/posts/2026-10-31-29971/index.md "中国A股这次股灾的完整汇总。 事在人为。各位炒A股的朋友还是要注意风险，毕竟不是正规市场。")
 - [109 KB — 01.jpg](@/posts/2026-10-27-29903/index.md "段永平的福报来了。此前不断被段永平加仓押注的泡泡玛特，发布第三季度业绩公告，整体营收同比下降 45 - 50%，海外美洲同比下降 70 - 75%，公司已出现明显负增长。 虽然港股已经收盘，但按照币安、Bitget 等场外合约报价 16 美金，约 126 港元来算，段永平已浮亏达 24 亿港元，约 -16%。")
 
-生成耗时 **13s**。
+生成耗时 **12s**。
 
-最后更新 **2026-11-04 13:24 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/41837556345)
+最后更新 **2026-11-04 22:58 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/41929632111)
 
 
 
