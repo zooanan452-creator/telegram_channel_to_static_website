@@ -16,7 +16,7 @@ next_body = "科创 50 指数，午后跌幅扩大至 4.8%，已从本轮最高�
 prev_id = 30001
 prev_title = ""
 prev_body = "中国人能飞"
-views = 5460
+views = 5570
 ids = [30002]
 +++
 
