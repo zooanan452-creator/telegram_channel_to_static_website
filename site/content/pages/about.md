@@ -28,14 +28,14 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 
 
 
-在 git 仓库中：**5.7 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
+在 git 仓库中：**5.6 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
 
 在 [GitHub Releases](https://github.com/zooanan452-creator/telegram_channel_to_static_website/releases) 中：**71.4 MB** 媒体文件 — 位于 git 之外，因此不计入限额。
 
 按类型：
 
-- **图片** 5.2 MB
-- **文本** 476 KB
+- **图片** 5.1 MB
+- **文本** 485 KB
 - **其他** 28.9 KB
 
 最大的文件：
@@ -53,7 +53,7 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 
 生成耗时 **12s**。
 
-最后更新 **2026-11-04 22:58 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/41929632111)
+最后更新 **2026-11-05 03:56 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/41964506215)
 
 
 
