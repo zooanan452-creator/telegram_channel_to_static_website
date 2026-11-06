@@ -28,15 +28,15 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 
 
 
-在 git 仓库中：**5.8 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
+在 git 仓库中：**5.7 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
 
 在 [GitHub Releases](https://github.com/zooanan452-creator/telegram_channel_to_static_website/releases) 中：**81.4 MB** 媒体文件 — 位于 git 之外，因此不计入限额。
 
 按类型：
 
-- **图片** 5.3 MB
-- **文本** 488 KB
-- **其他** 28.9 KB
+- **图片** 5.2 MB
+- **文本** 490 KB
+- **其他** 29.3 KB
 
 最大的文件：
 
@@ -51,9 +51,9 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 - [114 KB — 03.jpg](@/posts/2026-10-31-29971/index.md "中国A股这次股灾的完整汇总。 事在人为。各位炒A股的朋友还是要注意风险，毕竟不是正规市场。")
 - [111 KB — 01.jpg](@/posts/2026-10-31-29971/index.md "中国A股这次股灾的完整汇总。 事在人为。各位炒A股的朋友还是要注意风险，毕竟不是正规市场。")
 
-生成耗时 **25s**。
+生成耗时 **12s**。
 
-最后更新 **2026-11-06 13:21 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/42224628252)
+最后更新 **2026-11-06 22:29 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/42304912329)
 
 
 

@@ -16,7 +16,7 @@ next_body = "我不行了，乐死我了。\n好东西要拿出来跟大家一�
 prev_id = 30015
 prev_title = ""
 prev_body = "据《华尔街日报》报道，Meta Platforms(META.O)寻求在最新一轮债券发行中筹集至少200亿美元。"
-views = 5930
+views = 6020
 ids = [30016]
 +++
 
