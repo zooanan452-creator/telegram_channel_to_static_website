@@ -16,7 +16,7 @@ next_body = "武汉大学个个都是超人"
 prev_id = 30058
 prev_title = ""
 prev_body = "纳斯达克100指数跌幅扩大至5.1%，标普500指数下跌2.8%。"
-views = 4030
+views = 5400
 ids = [30059]
 +++
 

@@ -17,7 +17,9 @@ next_body = ""
 prev_id = 30049
 prev_title = ""
 prev_body = ""
-views = 3940
+views = 4650
+forwarded_from = "APPDO的互联网记忆"
+forwarded_from_url = "https://t.me/appdopic/4318"
 ids = [30052]
 +++
 
