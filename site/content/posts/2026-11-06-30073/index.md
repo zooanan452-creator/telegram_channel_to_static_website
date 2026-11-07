@@ -16,7 +16,7 @@ next_body = "【非农超预期 美联储12月加息概率升至80%】\n美国�
 prev_id = 30072
 prev_title = ""
 prev_body = ""
-views = 3960
+views = 4370
 ids = [30073]
 +++
 
