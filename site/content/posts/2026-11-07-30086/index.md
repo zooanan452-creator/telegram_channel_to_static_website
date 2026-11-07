@@ -13,7 +13,7 @@ tg_url = "https://t.me/pelosi3/30086"
 prev_id = 30085
 prev_title = ""
 prev_body = "突发消息：据彭博社报道，对冲基金 Samlyn Capital 已清仓几乎所有股票，仅保留金融股，并正在裁撤资深分析师。"
-views = 1730
+views = 2040
 ids = [30086]
 +++
 

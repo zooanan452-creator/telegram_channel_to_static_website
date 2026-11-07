@@ -51,9 +51,9 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 - [111 KB — 01.jpg](@/posts/2026-10-31-29971/index.md "中国A股这次股灾的完整汇总。 事在人为。各位炒A股的朋友还是要注意风险，毕竟不是正规市场。")
 - [109 KB — 01.jpg](@/posts/2026-10-27-29903/index.md "段永平的福报来了。此前不断被段永平加仓押注的泡泡玛特，发布第三季度业绩公告，整体营收同比下降 45 - 50%，海外美洲同比下降 70 - 75%，公司已出现明显负增长。 虽然港股已经收盘，但按照币安、Bitget 等场外合约报价 16 美金，约 126 港元来算，段永平已浮亏达 24 亿港元，约 -16%。")
 
-生成耗时 **13s**。
+生成耗时 **14s**。
 
-最后更新 **2026-11-07 17:30 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/42396491043)
+最后更新 **2026-11-07 21:10 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/42414480848)
 
 
 
