@@ -16,7 +16,7 @@ next_body = "金融监管上沃伦，ai监管上aoc，种族文化监管上密�
 prev_id = 30067
 prev_title = ""
 prev_body = "美版的来了😂😂😂"
-views = 4890
+views = 5070
 ids = [30068]
 +++
 

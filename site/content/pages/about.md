@@ -35,7 +35,7 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 按类型：
 
 - **图片** 4.8 MB
-- **文本** 508 KB
+- **文本** 502 KB
 - **其他** 29.3 KB
 
 最大的文件：
@@ -53,7 +53,7 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 
 生成耗时 **12s**。
 
-最后更新 **2026-11-08 12:19 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/42479625107)
+最后更新 **2026-11-08 21:26 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/42525065607)
 
 
 
