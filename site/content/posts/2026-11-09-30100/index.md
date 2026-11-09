@@ -13,10 +13,10 @@ tg_url = "https://t.me/pelosi3/30100"
 next_id = 30101
 next_title = ""
 next_body = "目前美国的数据中心建设进度正在放缓，黄仁勋出轨被拿捏住把柄之后，恐怕再要推动对华卖芯片也就难了。\n没想到美股的AI泡沫，会是被老黄的下体戳破"
-prev_id = 30099
+prev_id = 30098
 prev_title = ""
-prev_body = ""
-views = 2090
+prev_body = "据Axios：美国总统特朗普将于周一会见卡塔尔首相；卡塔尔首相是美国与伊朗之间的关键调停人。"
+views = 4340
 ids = [30100]
 +++
 

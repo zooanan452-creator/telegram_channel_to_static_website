@@ -10,10 +10,13 @@ days = ["2026-11-09"]
 id = 30104
 day = "2026-11-09"
 tg_url = "https://t.me/pelosi3/30104"
+next_id = 30105
+next_title = ""
+next_body = "一般中共对败露的间谍都是一弃了之。那么这次中共如何对待「黄乐」？中共官方还没正式表态，中国网络还是传播「黄乐」是CIA安排的。"
 prev_id = 30103
 prev_title = ""
 prev_body = "有钱人的品味不好说"
-views = 594
+views = 3920
 ids = [30104]
 +++
 
