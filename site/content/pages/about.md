@@ -28,14 +28,14 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 
 
 
-在 git 仓库中：**5.3 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
+在 git 仓库中：**5.2 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
 
 在 [GitHub Releases](https://github.com/zooanan452-creator/telegram_channel_to_static_website/releases) 中：**81.4 MB** 媒体文件 — 位于 git 之外，因此不计入限额。
 
 按类型：
 
-- **图片** 4.8 MB
-- **文本** 502 KB
+- **图片** 4.6 MB
+- **文本** 501 KB
 - **其他** 29.3 KB
 
 最大的文件：
@@ -51,9 +51,9 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 - [109 KB — 01.jpg](@/posts/2026-10-27-29903/index.md "段永平的福报来了。此前不断被段永平加仓押注的泡泡玛特，发布第三季度业绩公告，整体营收同比下降 45 - 50%，海外美洲同比下降 70 - 75%，公司已出现明显负增长。 虽然港股已经收盘，但按照币安、Bitget 等场外合约报价 16 美金，约 126 港元来算，段永平已浮亏达 24 亿港元，约 -16%。")
 - [109 KB — 6289802450935943941_1464458753_460002053.jpg](@/posts/2026-11-03-29998/index.md "🇺🇸美国11月3日中期选举最新数据和进度时间表： 民主党控制众议院的概率为 95%。 民主党控制参议院的概率为 74%。 中期选举真正的决战在明早上8点。 北京时间11月4日上午，出票时间表极其致命： 8:00，印第安纳和肯塔基率先关闭，首批数据出炉。 9:00，佐治亚、弗吉尼亚关闭，参议院关键战场打响。 10:00，最危险的窗口。亚利桑那、密歇根、得州同时关闭，参议院归属的早期信号，在这一小时成型。 中午12:00，加州关闭，计票缓慢。 但参议院，大概率会拖上几天，甚至几周。 明早10点，系好安全带。 不管谁赢，这场剧烈波动，买单的永远是你的股票和加密货币的仓位。")
 
-生成耗时 **12s**。
+生成耗时 **13s**。
 
-最后更新 **2026-11-08 21:26 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/42525065607)
+最后更新 **2026-11-09 03:18 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/42555493357)
 
 
 
