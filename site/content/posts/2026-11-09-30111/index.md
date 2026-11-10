@@ -16,7 +16,7 @@ next_body = "英伟达遭老黄出轨盘前一度暴跌4%\n其实传闻很早在
 prev_id = 30110
 prev_title = ""
 prev_body = "好事的网友问Grok，Grok认为黄仁勋的道歉信很可能AI写的。"
-views = 3960
+views = 4640
 ids = [30111]
 +++
 
