@@ -11,10 +11,13 @@ id = 30125
 day = "2026-11-09"
 tg_url = "https://t.me/pelosi3/30125"
 og_image = "6307652803169555259_1468614862_460002107.jpg"
+next_id = 30126
+next_title = ""
+next_body = ""
 prev_id = 30123
 prev_title = ""
 prev_body = "11月9日，陕西西安沣东新城。\n有人驾驶挖掘机，冲进当地政务服务中心，不断拆毁中心内的建筑，周围的公务员们束手无策 ，只能在一旁拍照。"
-views = 1560
+views = 3900
 ids = [30125]
 +++
 

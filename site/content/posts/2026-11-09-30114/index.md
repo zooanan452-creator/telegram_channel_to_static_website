@@ -16,7 +16,7 @@ next_body = "美国两党推进能源审批改革法案，拟加快数据中心�
 prev_id = 30113
 prev_title = ""
 prev_body = ""
-views = 2280
+views = 3530
 ids = [30114]
 +++
 
