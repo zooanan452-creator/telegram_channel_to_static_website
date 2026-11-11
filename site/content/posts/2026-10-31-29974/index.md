@@ -14,9 +14,6 @@ og_image = "01.jpg"
 next_id = 29976
 next_title = ""
 next_body = "以前爆仓了，还可以去送外卖\n现在连送外卖，都要开始裁员了😂"
-prev_id = 29971
-prev_title = ""
-prev_body = "中国A股这次股灾的完整汇总。\n事在人为。各位炒A股的朋友还是要注意风险，毕竟不是正规市场。"
 views = 5840
 ids = [29974, 29975]
 +++
