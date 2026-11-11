@@ -16,7 +16,7 @@ next_body = "获川普当局准许购买英伟达芯片的中国公司都是些�
 prev_id = 30178
 prev_title = ""
 prev_body = ""
-views = 796
+views = 2960
 ids = [30179]
 +++
 
