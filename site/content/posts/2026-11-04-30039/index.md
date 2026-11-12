@@ -16,7 +16,7 @@ next_body = "【美股中期选举后走势存分歧 国会控制权成关键变
 prev_id = 30038
 prev_title = ""
 prev_body = "受中期选举结果影响，相关个股盘前跌幅扩大，特朗普媒体科技集团(DJT.O)跌10%、特斯拉(TSLA.O)跌5.4%、SpaceX(SPCX.O)跌8%。"
-views = 6110
+views = 6120
 ids = [30039]
 +++
 
