@@ -16,7 +16,7 @@ next_body = "大师，该补税啦🙏\n全国3.35万座寺院、9000座道观�
 prev_id = 30174
 prev_title = ""
 prev_body = ""
-views = 4180
+views = 4450
 ids = [30176]
 +++
 
