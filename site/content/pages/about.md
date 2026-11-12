@@ -28,15 +28,15 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 
 
 
-在 git 仓库中：**5.3 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
+在 git 仓库中：**5.4 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
 
 在 [GitHub Releases](https://github.com/zooanan452-creator/telegram_channel_to_static_website/releases) 中：**91.1 MB** 媒体文件 — 位于 git 之外，因此不计入限额。
 
 按类型：
 
-- **图片** 4.9 MB
-- **文本** 437 KB
-- **其他** 23.5 KB
+- **图片** 5.0 MB
+- **文本** 442 KB
+- **其他** 24.0 KB
 
 最大的文件：
 
@@ -49,11 +49,11 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 - [109 KB — 02.jpg](@/posts/2026-11-11-30161/index.md "今天《金融时报》和《纽约邮报》都不理解黄乐的丈夫为何要「献出」自己的妻子？")
 - [109 KB — 6289802450935943941_1464458753_460002053.jpg](@/posts/2026-11-03-29998/index.md "🇺🇸美国11月3日中期选举最新数据和进度时间表： 民主党控制众议院的概率为 95%。 民主党控制参议院的概率为 74%。 中期选举真正的决战在明早上8点。 北京时间11月4日上午，出票时间表极其致命： 8:00，印第安纳和肯塔基率先关闭，首批数据出炉。 9:00，佐治亚、弗吉尼亚关闭，参议院关键战场打响。 10:00，最危险的窗口。亚利桑那、密歇根、得州同时关闭，参议院归属的早期信号，在这一小时成型。 中午12:00，加州关闭，计票缓慢。 但参议院，大概率会拖上几天，甚至几周。 明早10点，系好安全带。 不管谁赢，这场剧烈波动，买单的永远是你的股票和加密货币的仓位。")
 - [108 KB — 6296518852073952065_1466022537_460002113.jpg](@/posts/2026-11-05-30053/index.md)
-- [107 KB — 6284966416544895806_1463332776_460002110.jpg](@/posts/2026-11-01-29986/index.md "这周的俩件事， 1.OpenAI的融资周末爆雷，本来计划融资300亿美金，结果投资人只愿意给110亿美金， 连一半都不到。 OpenAI为了完成融资降到了200亿规模。 2.Anthropic的上市前股票评级投资机构给了一个“垃圾”级😂，因为公司隐性债务规模9000亿美金。")
+- [104 KB — 02.jpg](@/posts/2026-11-05-30049/index.md)
 
-生成耗时 **12s**。
+生成耗时 **11s**。
 
-最后更新 **2026-11-11 23:49 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/43122327412)
+最后更新 **2026-11-12 04:36 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/43155767755)
 
 
 
