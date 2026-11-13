@@ -16,7 +16,7 @@ next_body = "今天黄仁勋事件进一步发酵。美国媒体《information�
 prev_id = 30156
 prev_title = ""
 prev_body = "彭博社：中国不良债务催收者追逐1亿违约者"
-views = 6110
+views = 6180
 ids = [30157]
 +++
 
