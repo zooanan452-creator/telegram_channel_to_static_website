@@ -16,7 +16,7 @@ next_body = "腾讯终于找到了他们在 AI 熟悉的领域。\n对标海外 
 prev_id = 30200
 prev_title = ""
 prev_body = "Claude 新地区政策上线第一天，中文社区被弹人工资料审核频率激增，此外封号反馈贴数量也直线上升。\nAnthropic 不当人了。"
-views = 4390
+views = 5060
 ids = [30203]
 +++
 

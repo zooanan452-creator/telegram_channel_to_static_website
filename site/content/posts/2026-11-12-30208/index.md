@@ -16,7 +16,7 @@ next_body = "据路透社：内部备忘录显示，英伟达(NVDA.O)临时CEO�
 prev_id = 30207
 prev_title = ""
 prev_body = "美国芯片股盘前延续跌势，此前英伟达宣布黄仁勋辞去首席执行官职务。英特尔(INTC.O)下跌3.7%，迈威尔科技(MRVL.O)下跌5.2%，美光科技(MU.O)下跌5.2%，Arm(ARM.O)下跌4.1%，SK海力士(SKHY.O)美股下跌5.1%，台积电(TSM.N)下跌3.5%。"
-views = 4520
+views = 5530
 ids = [30208]
 +++
 
