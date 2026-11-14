@@ -16,7 +16,7 @@ next_body = "路透社引述知情人士报道，尽管中国大陆未批准大�
 prev_id = 30060
 prev_title = ""
 prev_body = "武汉大学个个都是超人"
-views = 6300
+views = 6310
 ids = [30062]
 +++
 
