@@ -16,7 +16,7 @@ next_body = "美国芯片股盘前延续跌势，此前英伟达宣布黄仁勋�
 prev_id = 30204
 prev_title = ""
 prev_body = "腾讯终于找到了他们在 AI 熟悉的领域。\n对标海外 Muse、Grok Bot 的陪聊助手鹅次元上线，主打真实陪聊陪伴，设定是 19 岁女大二学生。"
-views = 5800
+views = 6030
 ids = [30206]
 +++
 

@@ -44,8 +44,8 @@ search_site = "zooanan452-creator.github.io"
 avatar = "channel-avatar.jpg"
 
 
-tags = [{ name = "video", count = 4, slug = "video" }]
-page_tag_nav = [{ index = 1, newer = "", older = "11 十一月 2026 - 12 十一月 2026&#10;&#10;#video — 2" }, { index = 2, newer = "12 十一月 2026 - 13 十一月 2026", older = "10 十一月 2026 - 11 十一月 2026" }, { index = 3, newer = "11 十一月 2026 - 12 十一月 2026&#10;&#10;#video — 2", older = "9 十一月 2026 - 10 十一月 2026" }, { index = 4, newer = "10 十一月 2026 - 11 十一月 2026", older = "9 十一月 2026" }, { index = 5, newer = "9 十一月 2026 - 10 十一月 2026", older = "7 十一月 2026 - 9 十一月 2026" }, { index = 6, newer = "9 十一月 2026", older = "5 十一月 2026 - 6 十一月 2026&#10;&#10;#video — 1" }, { index = 7, newer = "7 十一月 2026 - 9 十一月 2026", older = "4 十一月 2026 - 5 十一月 2026" }, { index = 8, newer = "5 十一月 2026 - 6 十一月 2026&#10;&#10;#video — 1", older = "3 十一月 2026 - 4 十一月 2026&#10;&#10;#video — 1" }, { index = 9, newer = "4 十一月 2026 - 5 十一月 2026", older = "3 十一月 2026" }, { index = 10, newer = "3 十一月 2026 - 4 十一月 2026&#10;&#10;#video — 1", older = "" }]
+tags = [{ name = "video", count = 3, slug = "video" }]
+page_tag_nav = [{ index = 1, newer = "", older = "11 十一月 2026 - 12 十一月 2026&#10;&#10;#video — 1" }, { index = 2, newer = "12 十一月 2026 - 14 十一月 2026", older = "10 十一月 2026 - 11 十一月 2026&#10;&#10;#video — 1" }, { index = 3, newer = "11 十一月 2026 - 12 十一月 2026&#10;&#10;#video — 1", older = "10 十一月 2026" }, { index = 4, newer = "10 十一月 2026 - 11 十一月 2026&#10;&#10;#video — 1", older = "9 十一月 2026 - 10 十一月 2026" }, { index = 5, newer = "10 十一月 2026", older = "7 十一月 2026 - 9 十一月 2026" }, { index = 6, newer = "9 十一月 2026 - 10 十一月 2026", older = "6 十一月 2026 - 7 十一月 2026&#10;&#10;#video — 1" }, { index = 7, newer = "7 十一月 2026 - 9 十一月 2026", older = "5 十一月 2026 - 6 十一月 2026" }, { index = 8, newer = "6 十一月 2026 - 7 十一月 2026&#10;&#10;#video — 1", older = "4 十一月 2026 - 5 十一月 2026" }, { index = 9, newer = "5 十一月 2026 - 6 十一月 2026", older = "" }]
 
 
 
@@ -73,4 +73,4 @@ posts = "篇"
 related = "相关"
 
 [extra.tag_counts]
-"video" = "4 篇"
+"video" = "3 篇"
