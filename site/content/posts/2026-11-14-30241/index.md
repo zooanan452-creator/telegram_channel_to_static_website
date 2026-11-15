@@ -17,7 +17,7 @@ next_body = "多年来老黄一直悄悄用英伟达卖芯片赚的钱买比特�
 prev_id = 30240
 prev_title = ""
 prev_body = ""
-views = 3410
+views = 4450
 ids = [30241]
 +++
 
