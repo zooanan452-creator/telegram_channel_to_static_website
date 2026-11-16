@@ -20,7 +20,7 @@ template = "page.html"
 信息分享不易,欢迎大佬打赏，USDT 投喂地址:  
 TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 
-**72.6K** subscribers · **13.2K** images · **3.07K** videos · **33** files · **1.71K** links
+**72.7K** subscribers · **13.2K** images · **3.07K** videos · **33** files · **1.71K** links
 
 🎧 Podcast: [audio](https://zooanan452-creator.github.io/telegram_channel_to_static_website/podcast.xml) · [video](https://zooanan452-creator.github.io/telegram_channel_to_static_website/video-podcast.xml)
 
@@ -28,14 +28,14 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 
 
 
-在 git 仓库中：**6.5 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
+在 git 仓库中：**6.7 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
 
 在 [GitHub Releases](https://github.com/zooanan452-creator/telegram_channel_to_static_website/releases) 中：**93.9 MB** 媒体文件 — 位于 git 之外，因此不计入限额。
 
 按类型：
 
-- **图片** 6.1 MB
-- **文本** 405 KB
+- **图片** 6.3 MB
+- **文本** 393 KB
 - **其他** 24.3 KB
 
 最大的文件：
@@ -53,7 +53,7 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 
 生成耗时 **12s**。
 
-最后更新 **2026-11-16 03:27 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/43798226257)
+最后更新 **2026-11-16 14:08 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/43882342929)
 
 
 
