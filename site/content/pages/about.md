@@ -28,14 +28,14 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 
 
 
-在 git 仓库中：**6.7 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
+在 git 仓库中：**6.9 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
 
-在 [GitHub Releases](https://github.com/zooanan452-creator/telegram_channel_to_static_website/releases) 中：**93.9 MB** 媒体文件 — 位于 git 之外，因此不计入限额。
+在 [GitHub Releases](https://github.com/zooanan452-creator/telegram_channel_to_static_website/releases) 中：**102 MB** 媒体文件 — 位于 git 之外，因此不计入限额。
 
 按类型：
 
-- **图片** 6.3 MB
-- **文本** 393 KB
+- **图片** 6.5 MB
+- **文本** 392 KB
 - **其他** 24.3 KB
 
 最大的文件：
@@ -48,12 +48,12 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 - [119 KB — 6325761321592361864_1472831080_460002184.jpg](@/posts/2026-11-15-30247/index.md "华盛顿邮报认为，黄仁勋出轨事件不仅是个人丑闻，更是美国政府内部与国会两党“对华鹰派”联手瓦解黄仁勋在华盛顿政治影响力、夺回对华芯片出口政策主导权的关键转折点。卢比奥扮演了导火索制造者与幕后推手的关键角色。 白宫国安团队及国会两党强硬派将人工智能芯片视为中美竞争的核心战略资产，强烈反对放宽出口。黄仁勋此前曾在播客中公开痛批“对华鹰派”不爱国，彻底激怒了华盛顿的政客与智库群体。 国务卿兼国家安全顾问卢比奥根据中央情报局CIA的情报报告，用更具断言性的措辞撰写备忘录，警告特朗普注意黄仁勋与一名疑似中国情报线人的密切关系。备忘录内容随后被媒体泄露，最终引爆舆论危机。 长期以来，特朗普政府的国家安全团队…")
 - [116 KB — 6323509521778677173_1472306792_460002741.jpg](@/posts/2026-11-14-30241/index.md "马来西亚正式调查黄乐关联企业AI芯片流向，联手美国、新加坡核查 11月13日，马来西亚投贸部表示，正与海关核查Speedmatrix运入当地的英伟达AI芯片是否被再出口、手续是否合规。Speedmatrix是新加坡公司Megaspeed的马来西亚子公司，黄乐曾任Megaspeed首席执行官。 美国议员此前要求调查Megaspeed是否帮助绕过对华芯片管制。新加坡内政部11月12日披露，涉查企业采购的服务器经新加坡运抵马来西亚。 《联合早报》查阅企业登记资料发现，Speedmatrix于2024年将部分设备和知识产权提供给阿里巴巴旗下的新加坡公司Apex作担保。截至今年11月11日，这份担保仍然…")
 - [116 KB — 03.jpg](@/posts/2026-11-14-30224/index.md "高盛发布了的关于中国税收执法的报告，现已在各大投资群刷屏，亮点有： 今年中国政府目标是增收5000亿，其中税收增3000亿， 社保增2000亿 财政压力主要是因为卖地收入扑街，较高点跌了70%，约5万亿，增收完全不够补的😅 3.目前中国的税收占GDP仅13%，较2012年的18%还有很大增长空间")
+- [113 KB — 6330289570037046019_1473885395_460004099.jpg](@/posts/2026-11-16-30268/index.md "开始了。美国商务部发布新规，限制中国企业通过海外数据中心，远程使用美国前沿 AI 芯片。 新规要求，今后不管数据中心开在哪个国家，只要给总部在受限国家的公司，或母公司在这些国家的公司，远程提供大量 AI 算力，都得先拿美国许可证。")
 - [112 KB — 02.jpg](@/posts/2026-11-12-30196/index.md "马化腾昨晚腾讯周年会，讲话录音转文字稿流出，看来是真的有危机感了。 他还拿谷歌公司作为案例，开始大家以为 AI 对搜索影响很大，又觉得谷歌好像顶得住。到今年再看，浪真的已经杀过来。 并且承认在 AI 布局上，公司已经有点晚了。")
-- [109 KB — 02.jpg](@/posts/2026-11-11-30161/index.md "今天《金融时报》和《纽约邮报》都不理解黄乐的丈夫为何要「献出」自己的妻子？")
 
 生成耗时 **12s**。
 
-最后更新 **2026-11-16 14:08 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/43882342929)
+最后更新 **2026-11-17 01:13 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/43993690578)
 
 
 
