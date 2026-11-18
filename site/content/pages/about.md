@@ -35,7 +35,7 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 按类型：
 
 - **图片** 6.5 MB
-- **文本** 387 KB
+- **文本** 377 KB
 - **其他** 24.4 KB
 
 最大的文件：
@@ -51,9 +51,9 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 - [113 KB — 6330289570037046019_1473885395_460004099.jpg](@/posts/2026-11-16-30268/index.md "开始了。美国商务部发布新规，限制中国企业通过海外数据中心，远程使用美国前沿 AI 芯片。 新规要求，今后不管数据中心开在哪个国家，只要给总部在受限国家的公司，或母公司在这些国家的公司，远程提供大量 AI 算力，都得先拿美国许可证。")
 - [112 KB — 02.jpg](@/posts/2026-11-12-30196/index.md "马化腾昨晚腾讯周年会，讲话录音转文字稿流出，看来是真的有危机感了。 他还拿谷歌公司作为案例，开始大家以为 AI 对搜索影响很大，又觉得谷歌好像顶得住。到今年再看，浪真的已经杀过来。 并且承认在 AI 布局上，公司已经有点晚了。")
 
-生成耗时 **13s**。
+生成耗时 **11s**。
 
-最后更新 **2026-11-17 15:01 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/44109194466)
+最后更新 **2026-11-18 00:07 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/44204973962)
 
 
 
