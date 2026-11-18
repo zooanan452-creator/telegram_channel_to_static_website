@@ -17,7 +17,7 @@ next_body = ""
 prev_id = 30237
 prev_title = ""
 prev_body = "比特币、黄金、白银，都在周六的晚间同步下跌\n到底发生了什么事？？"
-views = 5780
+views = 5910
 ids = [30239]
 +++
 
