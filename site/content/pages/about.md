@@ -20,7 +20,7 @@ template = "page.html"
 信息分享不易,欢迎大佬打赏，USDT 投喂地址:  
 TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 
-**72.7K** subscribers · **13.2K** images · **3.07K** videos · **33** files · **1.71K** links
+**72.7K** subscribers · **13.2K** images · **3.08K** videos · **33** files · **1.71K** links
 
 🎧 Podcast: [audio](https://zooanan452-creator.github.io/telegram_channel_to_static_website/podcast.xml) · [video](https://zooanan452-creator.github.io/telegram_channel_to_static_website/video-podcast.xml)
 
@@ -28,14 +28,14 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 
 
 
-在 git 仓库中：**7.8 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
+在 git 仓库中：**7.5 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
 
-在 [GitHub Releases](https://github.com/zooanan452-creator/telegram_channel_to_static_website/releases) 中：**106 MB** 媒体文件 — 位于 git 之外，因此不计入限额。
+在 [GitHub Releases](https://github.com/zooanan452-creator/telegram_channel_to_static_website/releases) 中：**124 MB** 媒体文件 — 位于 git 之外，因此不计入限额。
 
 按类型：
 
-- **图片** 7.4 MB
-- **文本** 361 KB
+- **图片** 7.1 MB
+- **文本** 360 KB
 - **其他** 24.8 KB
 
 最大的文件：
@@ -51,9 +51,9 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 - [116 KB — 6323509521778677173_1472306792_460002741.jpg](@/posts/2026-11-14-30241/index.md "马来西亚正式调查黄乐关联企业AI芯片流向，联手美国、新加坡核查 11月13日，马来西亚投贸部表示，正与海关核查Speedmatrix运入当地的英伟达AI芯片是否被再出口、手续是否合规。Speedmatrix是新加坡公司Megaspeed的马来西亚子公司，黄乐曾任Megaspeed首席执行官。 美国议员此前要求调查Megaspeed是否帮助绕过对华芯片管制。新加坡内政部11月12日披露，涉查企业采购的服务器经新加坡运抵马来西亚。 《联合早报》查阅企业登记资料发现，Speedmatrix于2024年将部分设备和知识产权提供给阿里巴巴旗下的新加坡公司Apex作担保。截至今年11月11日，这份担保仍然…")
 - [116 KB — 03.jpg](@/posts/2026-11-14-30224/index.md "高盛发布了的关于中国税收执法的报告，现已在各大投资群刷屏，亮点有： 今年中国政府目标是增收5000亿，其中税收增3000亿， 社保增2000亿 财政压力主要是因为卖地收入扑街，较高点跌了70%，约5万亿，增收完全不够补的😅 3.目前中国的税收占GDP仅13%，较2012年的18%还有很大增长空间")
 
-生成耗时 **13s**。
+生成耗时 **12s**。
 
-最后更新 **2026-11-18 23:40 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/44422540696)
+最后更新 **2026-11-19 04:46 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/44460393838)
 
 
 
