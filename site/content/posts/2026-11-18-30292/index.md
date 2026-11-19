@@ -16,7 +16,7 @@ next_body = "华尔街日报报道，美国证券交易委员会（SEC）正在�
 prev_id = 30291
 prev_title = ""
 prev_body = "黄仁勋声明的全文。他只承认在「个人生活中犯下严重错误」。"
-views = 4940
+views = 5300
 ids = [30292]
 +++
 
