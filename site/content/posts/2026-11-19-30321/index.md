@@ -16,7 +16,7 @@ next_body = "老马今天说，政治选举上花了这么多钱没换来什么�
 prev_id = 30319
 prev_title = ""
 prev_body = ""
-views = 4510
+views = 4770
 ids = [30321]
 +++
 
