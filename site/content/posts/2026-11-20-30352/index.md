@@ -17,7 +17,7 @@ next_body = "【现货黄金创14个月新低 机构称美国通胀与油价是�
 prev_id = 30351
 prev_title = ""
 prev_body = "今天美国做空机构Hunterbrook发布报告，称「AMD也有一个中国问题」。他们发现AMD违禁与被美国政府列入黑名单的「浪潮」公司进行交易。今天AMD股价因此大跌。"
-views = 3090
+views = 3950
 ids = [30352]
 +++
 
