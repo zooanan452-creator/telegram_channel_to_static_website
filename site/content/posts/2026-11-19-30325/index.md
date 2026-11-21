@@ -16,7 +16,7 @@ next_body = "11月19日上午，习近平在深圳APEC领导人会议上念稿�
 prev_id = 30324
 prev_title = ""
 prev_body = "美国总统特朗普：过去三个月，通胀率降至了一个意想不到的水平。"
-views = 5070
+views = 5220
 ids = [30325]
 +++
 
