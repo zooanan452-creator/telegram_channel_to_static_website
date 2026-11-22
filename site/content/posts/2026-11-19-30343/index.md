@@ -16,7 +16,7 @@ next_body = "炒股亏麻了口嗨，结果收获了今年最硬核的“心理�
 prev_id = 30342
 prev_title = ""
 prev_body = "纳斯达克：Anthropic的首次公开募股（IPO）将于美东时间上午9:50（北京时间22:50）开始报价。"
-views = 5010
+views = 5060
 ids = [30343]
 +++
 
