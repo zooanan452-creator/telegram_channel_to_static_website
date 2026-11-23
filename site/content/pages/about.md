@@ -28,15 +28,15 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 
 
 
-在 git 仓库中：**8.0 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
+在 git 仓库中：**7.8 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
 
-在 [GitHub Releases](https://github.com/zooanan452-creator/telegram_channel_to_static_website/releases) 中：**182 MB** 媒体文件 — 位于 git 之外，因此不计入限额。
+在 [GitHub Releases](https://github.com/zooanan452-creator/telegram_channel_to_static_website/releases) 中：**191 MB** 媒体文件 — 位于 git 之外，因此不计入限额。
 
 按类型：
 
-- **图片** 7.6 MB
-- **文本** 394 KB
-- **其他** 29.9 KB
+- **图片** 7.4 MB
+- **文本** 398 KB
+- **其他** 29.4 KB
 
 最大的文件：
 
@@ -51,9 +51,9 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 - [132 KB — 6052897372058097717_1409299991_460003381.jpg](@/posts/2026-11-20-30361/index.md "路透社近期的一组数据整理值得关注，通过对6400份SEC 13F机构持仓文件分析，有138家机构完全退出了数据中心股票的持仓，多于新建仓的119家；212家完全退出电力与公用事业股票，多于新建仓的96家。 同时，2951家基金增加半导体持仓，2584家减少持仓。一定程度上反映资本正从AI基础设施投资链条中部分撤退，但仍然愿意持有具有核心技术竞争力的AI和半导体企业。")
 - [127 KB — 6060020476534264495_1410958468_460001967.jpg](@/posts/2026-11-22-30391/index.md "台湾经济日报报道，台湾证交所今日邀集十家大型券商开会，除了达成融资担保维持率从130%降到120%的共识，另外还有两大共识，一是券商的自营部现在水位都很低，所以会进场加码，二是股市稳定基金现在的规模只有5000亿，规模太小不足以发挥护市的功能。 融资担保维持率从130%降到120%，券商认为依照现在台股超跌的情况，目前的降幅是债券券商风险可以承担的范围，也可以让股民纾缓融资担保追缴的压力，但真正要有买盘强力的进场，券商认为股市稳定基的规模还是应该要扩大。")
 
-生成耗时 **13s**。
+生成耗时 **14s**。
 
-最后更新 **2026-11-22 22:55 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/45080241061)
+最后更新 **2026-11-23 16:41 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/45218991453)
 
 
 

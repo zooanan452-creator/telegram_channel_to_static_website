@@ -17,7 +17,7 @@ next_body = "令人注意的是，这次美国芯片出口限制新规，同时�
 prev_id = 30267
 prev_title = ""
 prev_body = ""
-views = 5930
+views = 5970
 ids = [30268]
 +++
 
