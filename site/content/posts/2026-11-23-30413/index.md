@@ -16,7 +16,7 @@ next_body = "回来了，一切都回来了。受黄仁勋回归英伟达影响\
 prev_id = 30412
 prev_title = ""
 prev_body = "市场消息：英伟达董事会恢复黄仁勋CEO职务。"
-views = 2280
+views = 3980
 ids = [30413]
 +++
 

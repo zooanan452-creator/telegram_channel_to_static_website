@@ -16,7 +16,7 @@ next_body = "【黄仁勋获准重返英伟达 特朗普：正确决定】\n美�
 prev_id = 30413
 prev_title = ""
 prev_body = "美国总统特朗普：希望英伟达CEO黄仁勋很快回到英伟达。"
-views = 2190
+views = 4120
 ids = [30414]
 +++
 

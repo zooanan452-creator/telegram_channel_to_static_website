@@ -17,7 +17,7 @@ next_body = "路透社近期的一组数据整理值得关注，通过对6400份
 prev_id = 30359
 prev_title = ""
 prev_body = "看到帖子讨论说，anthropic 上市敲钟的音乐很诡异，配合上 Dario 和一致的鼓掌，有一种 AI 生成视频的诡异感"
-views = 5290
+views = 5360
 ids = [30360]
 +++
 

@@ -17,7 +17,7 @@ next_body = "之前被英伟达董事会考虑，最有可能替代黄仁勋的�
 prev_id = 30404
 prev_title = ""
 prev_body = ""
-views = 2770
+views = 4040
 ids = [30406, 30407, 30408, 30409]
 +++
 

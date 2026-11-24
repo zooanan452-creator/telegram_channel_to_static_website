@@ -5,5 +5,6 @@ template = "day_full.html"
 
 [extra]
 day = "2026-11-23"
+newer_day = "2026-11-24"
 older_day = "2026-11-22"
 +++
