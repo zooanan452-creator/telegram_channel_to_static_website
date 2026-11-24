@@ -16,7 +16,7 @@ next_body = "【特朗普说可能与金正恩在中国举行会晤，外交部�
 prev_id = 30282
 prev_title = ""
 prev_body = "本轮 APEC 美国企业家访华名单流出\n特斯拉 / SpaceX CEO 马斯克\nVisa CEO Ryan McInerney\n万事达 CEO Michael Miebach\nUPS CEO Carol Tomé\nPayPal CEO Enrique Lores\n普华永道全球主席 Mohamed Kande\n德勤 CEO Joe Ucuzoglu\n波音全球总裁 Brendan Nelson\n谷歌全球政府事务负责人 Karan Bhatia\n以上仅马斯克随特朗普同行，不在工商峰会名单上，但也会参加深圳 APEC 行程。所有信息根据各家媒体和企业声明梳理"
-views = 6320
+views = 6350
 ids = [30283]
 +++
 

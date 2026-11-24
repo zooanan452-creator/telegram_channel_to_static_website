@@ -17,7 +17,7 @@ next_body = "A股今日成交1.37万亿，创16个月以来地量！\n11月18日
 prev_id = 30295
 prev_title = ""
 prev_body = "做空过瑞幸、绿诺国际的 Muddy Waters（浑水研究）宣布做空 $NVDA ，原因：\n质疑 NVIDIA 前高管 Ajay K. Puri（Jay Puri）身边的女子是否就是 SMCI 前首席增长官 Cenly Chen，进而暗示可能存在私人关系，并在 SMCI 非法向中国转售限制级 NVDA GPU 的背景下，对 NVIDIA 的出口合规、高管利益冲突与监管风险提出疑问。\n该报告称，Ajay K. Puri 曾是 NVIDIA 全球现场运营执行副总裁，地位仅次于黄仁勋和 Colette Kress ，薪酬在 FY2024–2026 略高于 Kress，是 2026 年委托书中仅有的五名高管之一。他负责全球销售、业务开发、合作伙伴联盟等。\n他于 2026 年 6 月底通知退休（实际过渡至 8 月），但仍以高级顾问身份留任。Cenly Chen 则于 2026 年 4 月底或 5 月初离开 SMCI，随后出任 ChronoScale（CHRN）CEO。"
-views = 5920
+views = 5950
 ids = [30297]
 +++
 

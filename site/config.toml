@@ -44,8 +44,8 @@ search_site = "zooanan452-creator.github.io"
 avatar = "channel-avatar.jpg"
 
 
-tags = [{ name = "video", count = 11, slug = "video" }]
-page_tag_nav = [{ index = 1, newer = "", older = "22 十一月 2026 - 23 十一月 2026&#10;&#10;#video — 1" }, { index = 2, newer = "23 十一月 2026 - 24 十一月 2026", older = "20 十一月 2026 - 22 十一月 2026" }, { index = 3, newer = "22 十一月 2026 - 23 十一月 2026&#10;&#10;#video — 1", older = "19 十一月 2026 - 20 十一月 2026&#10;&#10;#video — 5" }, { index = 4, newer = "20 十一月 2026 - 22 十一月 2026", older = "18 十一月 2026 - 19 十一月 2026&#10;&#10;#video — 3" }, { index = 5, newer = "19 十一月 2026 - 20 十一月 2026&#10;&#10;#video — 5", older = "17 十一月 2026 - 18 十一月 2026" }, { index = 6, newer = "18 十一月 2026 - 19 十一月 2026&#10;&#10;#video — 3", older = "16 十一月 2026&#10;&#10;#video — 1" }, { index = 7, newer = "17 十一月 2026 - 18 十一月 2026", older = "14 十一月 2026 - 15 十一月 2026&#10;&#10;#video — 1" }, { index = 8, newer = "16 十一月 2026&#10;&#10;#video — 1", older = "14 十一月 2026" }, { index = 9, newer = "14 十一月 2026 - 15 十一月 2026&#10;&#10;#video — 1", older = "" }]
+tags = [{ name = "video", count = 12, slug = "video" }]
+page_tag_nav = [{ index = 1, newer = "", older = "22 十一月 2026 - 23 十一月 2026&#10;&#10;#video — 1" }, { index = 2, newer = "23 十一月 2026 - 24 十一月 2026&#10;&#10;#video — 1", older = "20 十一月 2026 - 22 十一月 2026" }, { index = 3, newer = "22 十一月 2026 - 23 十一月 2026&#10;&#10;#video — 1", older = "19 十一月 2026 - 20 十一月 2026&#10;&#10;#video — 1" }, { index = 4, newer = "20 十一月 2026 - 22 十一月 2026", older = "19 十一月 2026&#10;&#10;#video — 6" }, { index = 5, newer = "19 十一月 2026 - 20 十一月 2026&#10;&#10;#video — 1", older = "17 十一月 2026 - 19 十一月 2026&#10;&#10;#video — 1" }, { index = 6, newer = "19 十一月 2026&#10;&#10;#video — 6", older = "16 十一月 2026 - 17 十一月 2026&#10;&#10;#video — 1" }, { index = 7, newer = "17 十一月 2026 - 19 十一月 2026&#10;&#10;#video — 1", older = "14 十一月 2026 - 16 十一月 2026&#10;&#10;#video — 1" }, { index = 8, newer = "16 十一月 2026 - 17 十一月 2026&#10;&#10;#video — 1", older = "14 十一月 2026" }, { index = 9, newer = "14 十一月 2026 - 16 十一月 2026&#10;&#10;#video — 1", older = "" }]
 
 
 
@@ -73,4 +73,4 @@ posts = "篇"
 related = "相关"
 
 [extra.tag_counts]
-"video" = "11 篇"
+"video" = "12 篇"

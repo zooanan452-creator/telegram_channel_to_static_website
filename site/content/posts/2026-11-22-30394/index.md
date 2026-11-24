@@ -16,7 +16,7 @@ next_body = "【特朗普：早已预言民主党胜选将引发股市暴跌及�
 prev_id = 30393
 prev_title = ""
 prev_body = "贝森特改口了！黄仁勋重返 $NVDA 的可能性正在上升？\n此前，贝森特还强调英伟达董事会应该从外部寻找CEO。\n但在最新采访中，面对CBS主持人Brennan的连续追问，贝森特的回答突然变得耐人寻味。\n双方原话：\nBrennan： “The president said Jensen Huang should get his job back. You said the board of directors needs to go to the outside.”\n特朗普总统说黄仁勋应该官复原职，但你此前表示董事会应该从外部寻找CEO。\nBessent： “Well, Jensen is on the outside now.”\n“好吧，黄仁勋现在不就是外部人士了吗？”\nBrennan： “Are you saying that you think it would be a good idea for him to go back and run the company?”\n所以，你认为让黄仁勋回去管理公司是个好主意？\nBessent： “I think we have to see where the buck stops. You know, what were these malicious actors down at the bottom of the company who were responsible for the noncompliance.”\n我认为我们必须查清最终责任归属。那些导致违规行为的公司底层恶意人员究竟是谁？\n注意贝森特态度的微妙变化。\n第一，此前要求从外部寻找CEO，现在却主动指出黄仁勋已经是外部人士，等于为其回归提供了一种解释。\n第二，主持人直接追问是否支持黄仁勋复职，贝森特没有明确反对，而是把重点转向内部违规人员的责任。\n第三，如果最终调查将责任归于下层员工，而不是黄仁勋本人，那么董事会当初罢免他的理由是否还站得住脚？\n特朗普公开力挺，贝森特口风松动，政治压力正在向英伟达董事会转移。"
-views = 4320
+views = 4670
 ids = [30394]
 +++
 

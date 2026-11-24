@@ -16,7 +16,7 @@ next_body = "Anthropic IPO定价出炉：每股83美元，发行9.8亿股\nAnthr
 prev_id = 30307
 prev_title = ""
 prev_body = ""
-views = 6090
+views = 6150
 ids = [30316]
 +++
 
