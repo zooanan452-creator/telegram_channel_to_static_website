@@ -17,7 +17,7 @@ next_body = "【英伟达重新任命黄仁勋为首席执行官，外交部：�
 prev_id = 30430
 prev_title = ""
 prev_body = "据悉SpaceX和特斯拉委派五名董事负责合并谈判\n据英国金融时报援引知情人士的话报道，马斯克旗下的两家上市公司已任命五名董事（其中三人来自特斯拉，两人来自SpaceX）以指导负责合并谈判的两个特别委员会。这些董事包括来自SpaceX的罗洛夫·博塔（Roelof Botha）和兰迪·格莱恩（Randy Glein），以及来自特斯拉的罗宾·登霍尔姆（Robyn Denholm）、凯瑟琳·威尔逊-汤普森（Kathleen Wilson-Thompson）和杰克·哈通（Jack Hartung）。"
-views = 4650
+views = 5320
 ids = [30431, 30432]
 +++
 
