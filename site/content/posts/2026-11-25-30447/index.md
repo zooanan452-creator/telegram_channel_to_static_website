@@ -11,10 +11,13 @@ id = 30447
 day = "2026-11-25"
 tg_url = "https://t.me/pelosi3/30447"
 og_image = "01.jpg"
+next_id = 30449
+next_title = ""
+next_body = ""
 prev_id = 30446
 prev_title = ""
 prev_body = "《纽约邮报》报道，川普表示，美国针对伊朗的军事行动已有足够资金，可持续维持至明年1月。"
-views = 928
+views = 5110
 ids = [30447, 30448]
 +++
 

@@ -16,7 +16,7 @@ next_body = "美国总统特朗普：希望英伟达CEO黄仁勋很快回到英�
 prev_id = 30411
 prev_title = ""
 prev_body = ""
-views = 5280
+views = 5640
 ids = [30412]
 +++
 
