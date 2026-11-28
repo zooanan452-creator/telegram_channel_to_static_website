@@ -16,7 +16,7 @@ next_body = "华为今天被认定12项罪名中的10项成立，罪名包括银
 prev_id = 30447
 prev_title = ""
 prev_body = "Anthropic 暴跌之际，老板人却在休假。意大利当地电视台 Antenna Sud 前几天拍摄证实，Anthropic 的老板 Dario Amodei，在完成轰动的 IPO 募资上市后，乘坐私人飞机降落在了意大利，他本人前往南部豪华度假村休假。\n就在他度假期间，ANT 跌破 83 美元发行价格。"
-views = 5910
+views = 6020
 ids = [30449]
 +++
 

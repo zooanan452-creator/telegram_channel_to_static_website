@@ -28,14 +28,14 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 
 
 
-在 git 仓库中：**6.7 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
+在 git 仓库中：**7.0 MB**，为 [GitHub Pages 1 GB 限额](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) 的 **1%**。
 
 在 [GitHub Releases](https://github.com/zooanan452-creator/telegram_channel_to_static_website/releases) 中：**210 MB** 媒体文件 — 位于 git 之外，因此不计入限额。
 
 按类型：
 
-- **图片** 6.3 MB
-- **文本** 413 KB
+- **图片** 6.6 MB
+- **文本** 414 KB
 - **其他** 32.1 KB
 
 最大的文件：
@@ -51,9 +51,9 @@ TLKcoid5nLHViVfG1HvsArauWFdv2hXDeu
 - [127 KB — 01.jpg](@/posts/2026-11-27-30490/index.md "习近平与特朗普深圳会晤6天后，美国提出方案对所有输美中国商品征收最高40%关税 11月19日，习近平在深圳会见特朗普时说，中美关系“总体稳定向好”。美国当地时间11月25日，美国贸易代表办公室公布对华关税提案。 如果美方认为，双方谈判未能充分解决这次调查涉及的制造业产能过剩问题，将考虑对所有输美中国商品征收最高40%的关税。 美方列出九项它认为助长中国产能过剩的做法，包括补贴制造业、以优惠条件扶持国企、强制技术转让和劳动保障不足。 美国贸易代表格里尔在公告中说，习近平早已认识到产能过剩对全球经济的威胁，但多年来，国际会议上的表态始终没有带来改变。")
 - [125 KB — 01.jpg](@/posts/2026-11-22-30387/index.md "稳市场行动开始！中国和韩国，同时在周日放出市场稳定措施，沪深北交易所发文，把借钱炒股的最低保证金比例由 100% 下调到 80%，11 月 30 日起施行。 而韩国财政部长、央行行长紧急开会，准备救市基金，视情况随时进场托底，18 年来首次。并放宽上市公司回购限制，同时严查市场违规做空。")
 
-生成耗时 **13s**。
+生成耗时 **14s**。
 
-最后更新 **2026-11-28 00:48 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/46089647113)
+最后更新 **2026-11-28 14:40 UTC** · [构建日志](https://github.com/zooanan452-creator/telegram_channel_to_static_website/actions/runs/46155719027)
 
 
 

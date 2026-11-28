@@ -17,7 +17,7 @@ next_body = "【特朗普施压英伟达引发党内质疑，参议员警告开�
 prev_id = 30435
 prev_title = ""
 prev_body = "同样是人类史上最大的 IPO。Anthropic 上市时，CEO Dario Amodei 和他妹妹 Daniela，先套现了约 5.6 亿美元，其中他本人套现 2.8 亿，所有 7 位联合创始人，合计套现近 20 亿。\n而 SpaceX 今年 6 月上市，则是 100% 发行新股，马斯克和所有老股东在 IPO 里一股都没卖。"
-views = 6900
+views = 7010
 ids = [30436]
 +++
 
