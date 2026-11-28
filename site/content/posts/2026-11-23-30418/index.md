@@ -16,7 +16,7 @@ next_body = "【做空英伟达的基金在暴跌91%后停牌】\n据华尔街�
 prev_id = 30417
 prev_title = ""
 prev_body = "据美国财经媒体Semafor：特朗普通过电话参加了英伟达董事会会议，并主张让黄仁勋回归。"
-views = 5720
+views = 5790
 ids = [30418]
 +++
 

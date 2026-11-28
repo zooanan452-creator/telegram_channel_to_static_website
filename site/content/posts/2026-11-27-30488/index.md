@@ -16,7 +16,7 @@ next_body = ""
 prev_id = 30487
 prev_title = ""
 prev_body = "他们这帮财经博主就是靠哭来赚同情和粉丝的，是吧？"
-views = 3000
+views = 3850
 ids = [30488]
 +++
 

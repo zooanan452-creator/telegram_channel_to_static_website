@@ -16,7 +16,7 @@ next_body = "Anthropic 暴跌之际，老板人却在休假。意大利当地电
 prev_id = 30445
 prev_title = ""
 prev_body = ""
-views = 5630
+views = 5700
 ids = [30446]
 +++
 

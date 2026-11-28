@@ -16,7 +16,7 @@ next_body = "各位金主请注意，\n若您想在本频道投放广告，\n请
 prev_id = 30481
 prev_title = ""
 prev_body = "小鹏汽车，始于偷窃。"
-views = 3260
+views = 3840
 ids = [30482]
 +++
 

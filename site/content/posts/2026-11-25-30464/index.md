@@ -16,7 +16,7 @@ next_body = "越来越怀疑特朗普政府手里有个专门救市的抽屉，�
 prev_id = 30463
 prev_title = ""
 prev_body = "SpaceX(SPCX.O)：向每个“特朗普账户”赠送一股A类股票。马斯克还将个人追加捐赠与SpaceX相同数量的股票。此外，SpaceX总裁兼首席运营官格温·肖特韦尔也宣布，将以个人名义捐赠超过200万股SpaceX股票。"
-views = 5070
+views = 5200
 ids = [30464]
 +++
 

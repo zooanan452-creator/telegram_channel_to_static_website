@@ -17,7 +17,7 @@ next_body = "【美国股票基金单周净流出305.7亿美元，创近三个�
 prev_id = 30489
 prev_title = ""
 prev_body = ""
-views = 2010
+views = 3330
 ids = [30490, 30491, 30492]
 +++
 
